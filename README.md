@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome!)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarinaK)](https://github.com/NarinaK/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NarinaK)](https://github.com/NarinaK/github-readme-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NarinaK)](https://git.io/streak-stats)
 
 
